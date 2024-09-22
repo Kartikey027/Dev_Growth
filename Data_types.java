@@ -1,7 +1,7 @@
 public class Data_types {
     public static void main(String[] args) {
         int x,y;
-        x=654561315615321525;//this is integer data type 
+        x=654561315615321525;//this is integer data type so it cant hold such large values thus gives error
         y=10;
         System.out.println(y+" " +x);
         double b=3.14;
